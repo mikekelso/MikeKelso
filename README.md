@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**mikekelso/MikeKelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. I'm Mike. I'm a former math teacher turned software engineer.
 
-Here are some ideas to get you started:
+- 🔎 I’m looking for my first software development role.
+- 🔨 I particularly like C++ but am confortable using whatever language necessary.
+- 📚 I'm currently studying applied math and computer science and will apply to a MS CS program March 2024.
+- 💪 I have a strong math foundation.
+- 🌱 Let me know if you'd like to collaborate on a project. Gotta build that portfolio!
+  
+- 🌞 Life is good. Let's get after it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
